@@ -1,2 +1,2 @@
-# desafio-dio-gitub-primeiro-repo-publico
+# Desafio projeto dio git/github. Modelo desafio.
 Desafio de projeto git/github exemplo
